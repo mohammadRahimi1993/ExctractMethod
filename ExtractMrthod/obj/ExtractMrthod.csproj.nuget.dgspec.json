@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod\\ExtractMrthod.csproj": {}
+    "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod\\ExtractMrthod.csproj": {
+    "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod\\ExtractMrthod.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod.csproj",
         "projectName": "ExtractMrthod",
-        "projectPath": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod\\ExtractMrthod.csproj",
+        "projectPath": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\ExtractMrthod\\obj\\",
+        "outputPath": "C:\\Users\\Mohammad\\Desktop\\Extractmethod\\ExtractMrthod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
